@@ -1,4 +1,4 @@
-if serverId == ("zagadka123"):
+if sId == ("zagadka123"):
 	print("serwer: zagadka")
-elif serverId == ("henie123"):
+elif sId == ("henie123"):
 	print("serwer: henie")
