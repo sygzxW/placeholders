@@ -1,2 +1,2 @@
-zagadkaId == ('1')
-henieId == ('2')
+zagadkaId = ('1')
+henieId = ('2')
